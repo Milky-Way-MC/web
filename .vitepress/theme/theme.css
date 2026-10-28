@@ -219,6 +219,13 @@
         border-radius: var(--retro-border-radius) !important;
 
         box-shadow: var(--retro-box-shadow) !important;
+
+        .copy {
+            border: var(--retro-border) !important;
+            border-radius: var(--retro-border-radius) !important;
+
+            box-shadow: var(--retro-box-shadow) !important;
+        }
     }
 
     .custom-block.details[open] summary::before {

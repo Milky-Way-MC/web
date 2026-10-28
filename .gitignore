@@ -1,0 +1,4 @@
+#region VirePress
+.vitepress/cache
+node_modules/
+#endregion

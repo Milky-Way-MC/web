@@ -9,7 +9,9 @@
     --c-brand-gradient: -webkit-linear-gradient(-45deg,
             var(--c-brand-1) 30%,
             var(--c-brand-2));
+}
 
+:root {
     --c-inset-shadow-1: rgba(255, 255, 255, 0.1);
     --c-inset-shadow-2: rgba(255, 255, 255, 0.05);
 
@@ -26,6 +28,7 @@
     --retro-transition: color 0.25s, border-color 0.25s, background-color 0.25s;
 }
 
+/*  #region VPHero  */
 :root {
     --vp-home-hero-name-color: transparent;
     --vp-home-hero-name-background: var(--c-brand-gradient);
@@ -34,11 +37,6 @@
 :root {
     --vp-home-hero-image-background-image: var(--c-brand-gradient);
     --vp-home-hero-image-filter: blur(50px);
-}
-
-:root {
-    --vp-custom-block-radius: 4px;
-    --vp-code-block-radius: 6px;
 }
 
 .VPHero {
@@ -54,6 +52,8 @@
         }
     }
 }
+
+/*  #endregion  */
 
 /*  #region Retro Style  */
 

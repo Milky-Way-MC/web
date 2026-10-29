@@ -41,7 +41,7 @@ Milky Way — небольшой приватный Minecraft-сервер с у
 <FeatureCard 
   title="Территория Спавна" 
   image="/screenshot1.png" 
-  ratio="2-3",
+  ratio="3-2",
   reverse = true
 >
   Построил вроде Алез, уже никто не помнит
@@ -62,7 +62,7 @@ Milky Way — небольшой приватный Minecraft-сервер с у
 <FeatureCard 
   title="Фрактальный театр" 
   image="/screenshot3.png" 
-  ratio="2-3",
+  ratio="3-2",
   reverse = true
 >
   Постройка MAESTRO20
@@ -83,7 +83,7 @@ Milky Way — небольшой приватный Minecraft-сервер с у
 <FeatureCard 
   title="База Связистов" 
   image="/screenshot5.png" 
-  ratio="2-3"
+  ratio="3-2"
   reverse = true
 >
   Постройка не знаю чья
